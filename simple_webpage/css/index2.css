@@ -1,0 +1,407 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#outer{
+    width: 80%;
+    /* border: 1px solid #fff; */
+    margin: 0% auto;
+}
+.top{
+    height: 90px;
+    width: 100%;
+    /* border: 1px solid #fff; */
+}
+.navbar{
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    border-radius: 25px 25px 0px 0px;
+    background-color: #fff;
+    /* border: 1px solid black; */
+}
+.inp{
+  height: 40px;
+  width: 34%;
+  margin-top: 1%;
+  /* border: 1px solid; */
+  float: right;
+}
+.inp input{
+    margin-top: 3%;
+    margin-left:80px;
+    height: 30px;
+    width: 70%;
+}
+ .nav{
+    height: 50px;
+    width: 65%;
+    margin-bottom: 3%;
+    float: left;
+    /* border: 1px solid; */
+}
+.nav ul{
+    list-style-type: none;
+}
+.nav ul li{
+    display: inline-block;
+    font-size: 20px;
+    padding: 5px;
+    /* border: 1px solid; */
+}
+.nav ul li a{
+    text-decoration: none;
+    color:rgb(79, 79, 79);
+} 
+.nav ul li a:hover{
+    color:rgb(0, 255, 0);
+}
+
+.one{
+    height: 195px;
+    width: 100%;
+    margin-top: 15px;
+    /* border: 1px solid; */
+}
+.two{
+    height: 925px;
+    width:100%;
+    margin-top: 8px;
+    border-radius:0px 0px 25px 25px;
+    background-color: #fff;
+    /* border:1px solid; */
+}
+.left{
+    height: 925px;
+    width: 70%;
+    float: left;
+    /* border: 1px solid; */
+}
+.raet{
+    height: 925px;
+    width: 30%;
+    float: left;
+    border-radius: 0px 0px 25px 0px;
+    background-color:rgb(226,235,218);
+    /* border: 1px solid; */
+}
+.templet{
+height: 60px;
+margin-top: 50px;
+margin-left: 30px;
+width: 90%;
+/* border: 1px solid; */
+}
+.girl{
+    height: 200px;
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 30px;
+    /* border: 1px solid; */
+}
+.content{
+    height: 100px;
+    width: 90%;
+    margin-left: 30px;
+    text-align: justify;
+    color: rgb(110, 110, 110);
+    /* border: 1px solid; */
+}
+.readmore{
+    height: 30px;
+    width:30%;
+    margin-left: 30px;
+    /* border: 1px solid; */
+}
+.laptop{
+    height: 70px;
+    width: 90%;
+    margin-left: 30px;
+    /* border: 1px solid; */
+}
+.content1{
+    height: 130px;
+    width: 90%;
+    text-align: justify;
+    margin-left: 30px;
+    /* border: 1px solid; */
+}
+.content2{
+    height: 100px;
+    width: 90%;
+    text-align: justify;
+    margin-left: 30px;
+    /* border: 1px solid; */
+}
+.foot{
+    height: 50px;
+    width: 100%;
+    /* border: 1px solid; */
+}
+.footer1{
+    height: 50px;
+    width: 30%;
+    margin-left: 30px;
+    /* border: 1px solid; */
+    float: left;
+}
+.footer2{
+    height: 60px;
+    width: 30%;
+    /* border: 1px solid; */
+    float: right;
+}
+.sidebar{
+    height:300px;
+    width: 70%;
+    margin-top: 40px;
+    margin-left: 30px;
+    /* border: 1px solid; */
+}
+.bottom{
+    height: 230px;
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 25px;
+    background-color: #fff;
+    /* border: 1px solid; */
+}
+.first{
+    height: 199px;
+    width: 30%;
+    margin-left: 20px;
+    margin-top: 15px;
+    /* border: 1px solid; */
+    float:left;
+}
+.galley{
+    height: 50px;
+    width: 100%;
+    /* border: 1px solid; */
+}
+.photo1{
+    height: 140px;
+    width: 100%;
+}
+.sec{
+    height: 199px;
+    width: 34%;
+    margin-top: 15px;
+    margin-left: 20px;
+    /* border: 1px solid; */
+    float:left;
+}
+.third{
+    height: 199px;
+    width: 30%;
+    margin-top: 15px;
+    /* border: 1px solid; */
+    float:right;
+}
+
+/* -------------------------------------web site css----------------------------------------------------------------------------------- */
+
+.logouter{
+    width: 90%;
+    /* border: 1px solid red; */
+    margin: 5% auto;
+}
+.logintop{
+    height: 250px;
+    width: 100%;
+    /* border: 1px solid; */
+    border-radius: 0px 35px 0px 35px;
+    box-shadow: 0px 3px 5px;
+}
+
+.form{
+    height: 300px;
+    width: 60%;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0px 3px 5px;
+    /* border: 1px solid; */
+    border-radius: 0px 45px 0px 45px;
+    margin-left:20% ;
+    margin-top: 10%;
+    margin-bottom: 25%;
+}
+
+.inbox1{
+    height: 40px;
+    width:320px;
+    margin-top: 3%;
+    padding: 3px;
+    border: 1px solid grey;
+    border-radius:5px;
+ }
+ .inbox2{
+    height: 40px;
+    width:320px;
+    padding: 3px;
+    margin-top:3%;
+    border: 1px solid grey;
+    border-radius:5px;
+ }
+ .inbox3{
+    height: 40px;
+    width:325px;
+    margin-top:3%;
+    font-size: 22px;
+    color: #fff;
+    background-color:rgb(126, 46, 247) ;
+    border: 1px solid grey;
+    border-radius: 5px;
+ }
+ .inbox3:hover{
+    cursor: pointer;
+    background-color: rgb(29, 142, 29);
+ }
+ .inbox4{
+    height: 40px;
+    width:200px;
+    margin-top:3%;
+    font-size: 18px;
+    color: #fff;
+    background-color:rgb(29, 142, 29);
+    border: 1px solid grey;
+    border-radius: 5px;
+ }
+ .inbox4:hover{
+    cursor: pointer;
+    background-color: rgb(17, 92, 253);
+ }
+ 
+ /* ----------------------------register css------------------------------------------------------------------------------------- */
+
+ .registerouter{
+    height: 500px;
+    width: 100%;
+    /* border: 1px solid; */
+ }
+.register{
+    height: 450px;
+    width: 65%;
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 83px;
+    box-shadow: 0px 5px 8px;
+    border-radius: 0px 50px 0px 50px;
+    /* border: 1px solid; */
+}
+.registerform{
+    height: 40px;
+    width: 60%;
+    margin-top: 30px;
+    margin-left: 80px;
+    padding-left: 8px;
+    /* border: 1px solid; */
+}
+.main{
+    margin-left: 35px;
+    margin-top: 20px;
+    /* border: 1px solid; */
+}
+.main input{
+    height: 40px;
+    width: 85%;
+    margin-top: 5%;
+}
+#butt{
+    margin-top: 10%;
+    width: 50%;
+    font-size: 20px;
+    color: #fff;
+    background-color:rgb(40, 143, 40);
+    border: none;
+    border-radius: 5px;
+    margin-left: 20%;
+    height: 40px;
+}
+#butt:hover{
+    background-color: orange;
+    font-size: 23px;
+    box-shadow: 5px 5px 10px rgb(50, 151, 3);
+}
+
+/* ----------------------------------------------------------about us css------------------------------------------------------------------ */
+
+.about{
+    width: 90%;
+    margin: 0px auto;
+    /* border: 1px solid; */
+}
+.aboutus{
+    height: 485px;
+    width: 85%;
+    margin-left: 40px;
+    margin-top: 10px;
+    padding: 25px;
+    border-radius: 0px 35px 0px 35px;
+    box-shadow: 0px 5px 8px;
+    text-align: justify;
+    /* border: 1px solid; */
+}
+.footimage{
+    height: 155px;
+    width: 150px;
+    /* border: 1px solid ; */
+    text-align: center;
+    margin-right: 20px;
+    float: right;
+}
+.phto{
+    height: 100px;
+    width: 100px;
+    border: 5px solid #fff;
+    box-shadow: 0px 3px 5px;
+    margin-left: 15px;
+    border-radius: 0px 20px 0px 20px;
+}
+.name{
+    height:25px;
+    width: 100%;
+    margin-top: 10px;
+    text-shadow: 0px 5px 8px;
+    /* border: 1px solid; */
+    
+}
+/* ------------------------------------------------------------------------------------contact css------------------------------------------------------------------------------------------- */
+
+.contactouter{
+    height: 500px;
+    width: 100%;
+    /* border: 1px solid; */
+ }
+.contact{
+    height: 450px;
+    width: 65%;
+    margin-top: 40px;
+    margin-left: 83px;
+    padding: 10px;
+    box-shadow: 0px 5px 8px;
+    border-radius: 0px 50px 0px 50px;
+    /* border: 1px solid; */
+}
+.contactus{
+    height: 40px;
+    width: 60%;
+    margin-top: 30px;
+    margin-left: 80px;
+    padding-left: 8px;
+    /* border: 1px solid; */
+}
+.main1{
+    margin-left: 35px;
+    margin-top: 20px;
+    /* border: 1px solid; */
+}
+.main1 input{
+    height: 40px;
+    width: 86%;
+    margin-top: 5%;
+}
+#message{
+    margin-top: 20px;
+}
+/* =====================================================================that's all========================================================================================================== */
